@@ -2,7 +2,7 @@
 <database>
     <element label="Timeclock" max_length="40" name="x_68580_timekeepin_timeclock" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element label="Active" max_length="40" name="u_active" type="boolean"/>
+        <element default="true" label="Active" max_length="40" name="u_active" type="boolean"/>
         <element label="Department" max_length="32" name="u_department" reference="cmn_department" type="reference"/>
         <element label="IP Address" max_length="20" name="u_ip_address" type="ip_addr"/>
         <element label="Location" max_length="32" name="u_location" reference="cmn_location" type="reference"/>

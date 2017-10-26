@@ -4,5 +4,6 @@
         <element label="Requested for" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Requested for email" max_length="40" name="u_requested_for_email" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Requested for phone" max_length="20" name="u_requested_for_phone" type="string"/>
+        <element label="Timeclock" max_length="32" name="u_timeclock" reference="x_68580_timekeepin_timeclock" reference_qual="u_active=true^EQ" reference_qual_condition="u_active=true^EQ" type="reference"/>
     </element>
 </database>
