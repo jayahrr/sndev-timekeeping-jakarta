@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_et_category" table="x_68580_timekeepin_electronic_timekeeping_support" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_et_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pay rules</label>
+            <language>en</language>
+            <name>x_68580_timekeepin_electronic_timekeeping_support</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-26 20:24:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4ee17290f4e0300cab6306be1050e4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-26 20:24:07</sys_updated_on>
+            <value>pay_rules</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_et_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Timecard calculations</label>
+            <language>en</language>
+            <name>x_68580_timekeepin_electronic_timekeeping_support</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-26 20:24:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38ee17290f4e0300cab6306be1050e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-26 20:24:07</sys_updated_on>
+            <value>timecard_calculations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_et_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Accruals</label>
+            <language>en</language>
+            <name>x_68580_timekeepin_electronic_timekeeping_support</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-26 20:24:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74ee17290f4e0300cab6306be1050e52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-26 20:24:07</sys_updated_on>
+            <value>accruals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_et_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Payroll cycle change</label>
+            <language>en</language>
+            <name>x_68580_timekeepin_electronic_timekeeping_support</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-26 20:24:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0ee17290f4e0300cab6306be1050e54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-26 20:24:07</sys_updated_on>
+            <value>payroll_cycle_change</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_et_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Employee Configuration</label>
+            <language>en</language>
+            <name>x_68580_timekeepin_electronic_timekeeping_support</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-26 20:24:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcee17290f4e0300cab6306be1050e55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-26 20:24:07</sys_updated_on>
+            <value>employee_configuration</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_et_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Time off request</label>
+            <language>en</language>
+            <name>x_68580_timekeepin_electronic_timekeeping_support</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-26 20:24:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3cee17290f4e0300cab6306be1050e57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-26 20:24:07</sys_updated_on>
+            <value>time_off_request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_et_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Authentication</label>
+            <language>en</language>
+            <name>x_68580_timekeepin_electronic_timekeeping_support</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-26 20:24:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78ee17290f4e0300cab6306be1050e59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-26 20:24:07</sys_updated_on>
+            <value>authentication</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_et_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_68580_timekeepin_electronic_timekeeping_support</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-26 20:24:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4ee17290f4e0300cab6306be1050e5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-26 20:24:07</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_et_category</element>
+            <name>x_68580_timekeepin_electronic_timekeeping_support</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-26 20:24:07</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>f0ee17290f4e0300cab6306be1050e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_et_category</sys_name>
+            <sys_package display_value="Electronic Timekeeping Support" source="x_68580_timekeepin">feaf98e90fc60300cab6306be1050e9b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Electronic Timekeeping Support">feaf98e90fc60300cab6306be1050e9b</sys_scope>
+            <sys_update_name>sys_choice_x_68580_timekeepin_electronic_timekeeping_support_u_et_category</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-26 20:24:07</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
