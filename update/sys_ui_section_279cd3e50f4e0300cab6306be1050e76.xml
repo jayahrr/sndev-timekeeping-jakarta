@@ -5,13 +5,13 @@
             <element>urgency</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-26 23:51:11</sys_created_on>
-            <sys_id>d64e84fd0f8e0300cab6306be1050e79</sys_id>
+            <sys_created_on>2017-10-27 00:08:58</sys_created_on>
+            <sys_id>a65218710fce0300cab6306be1050ef1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Details" display_value="Details" name="x_68580_timekeepin_electronic_timekeeping_support" sys_domain="global" view="Default view">279cd3e50f4e0300cab6306be1050e76</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-26 23:51:11</sys_updated_on>
+            <sys_updated_on>2017-10-27 00:08:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-26 23:51:11</sys_created_on>
-            <sys_id>5a4e84fd0f8e0300cab6306be1050e79</sys_id>
+            <sys_created_on>2017-10-27 00:08:58</sys_created_on>
+            <sys_id>2a5218710fce0300cab6306be1050ef1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Details" display_value="Details" name="x_68580_timekeepin_electronic_timekeeping_support" sys_domain="global" view="Default view">279cd3e50f4e0300cab6306be1050e76</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-26 23:51:11</sys_updated_on>
+            <sys_updated_on>2017-10-27 00:08:58</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>impact</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-26 23:51:11</sys_created_on>
-            <sys_id>da4e84fd0f8e0300cab6306be1050e79</sys_id>
+            <sys_created_on>2017-10-27 00:08:58</sys_created_on>
+            <sys_id>aa5218710fce0300cab6306be1050ef1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Details" display_value="Details" name="x_68580_timekeepin_electronic_timekeeping_support" sys_domain="global" view="Default view">279cd3e50f4e0300cab6306be1050e76</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-26 23:51:11</sys_updated_on>
+            <sys_updated_on>2017-10-27 00:08:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>.end_split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-26 23:51:11</sys_created_on>
-            <sys_id>5e4e84fd0f8e0300cab6306be1050e79</sys_id>
+            <sys_created_on>2017-10-27 00:08:58</sys_created_on>
+            <sys_id>2e5218710fce0300cab6306be1050ef1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Details" display_value="Details" name="x_68580_timekeepin_electronic_timekeeping_support" sys_domain="global" view="Default view">279cd3e50f4e0300cab6306be1050e76</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-26 23:51:11</sys_updated_on>
+            <sys_updated_on>2017-10-27 00:08:58</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>u_timeclock</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-26 23:51:11</sys_created_on>
-            <sys_id>de4e84fd0f8e0300cab6306be1050e79</sys_id>
+            <sys_created_on>2017-10-27 00:08:58</sys_created_on>
+            <sys_id>ae5218710fce0300cab6306be1050ef1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Details" display_value="Details" name="x_68580_timekeepin_electronic_timekeeping_support" sys_domain="global" view="Default view">279cd3e50f4e0300cab6306be1050e76</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-26 23:51:11</sys_updated_on>
+            <sys_updated_on>2017-10-27 00:08:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>short_description</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-26 23:51:11</sys_created_on>
-            <sys_id>524e84fd0f8e0300cab6306be1050e7a</sys_id>
+            <sys_created_on>2017-10-27 00:08:58</sys_created_on>
+            <sys_id>225218710fce0300cab6306be1050ef2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Details" display_value="Details" name="x_68580_timekeepin_electronic_timekeeping_support" sys_domain="global" view="Default view">279cd3e50f4e0300cab6306be1050e76</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-26 23:51:11</sys_updated_on>
+            <sys_updated_on>2017-10-27 00:08:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>description</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-26 23:51:11</sys_created_on>
-            <sys_id>d24e84fd0f8e0300cab6306be1050e7a</sys_id>
+            <sys_created_on>2017-10-27 00:08:58</sys_created_on>
+            <sys_id>a25218710fce0300cab6306be1050ef2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Details" display_value="Details" name="x_68580_timekeepin_electronic_timekeeping_support" sys_domain="global" view="Default view">279cd3e50f4e0300cab6306be1050e76</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-26 23:51:11</sys_updated_on>
+            <sys_updated_on>2017-10-27 00:08:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

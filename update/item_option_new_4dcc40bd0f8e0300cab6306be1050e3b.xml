@@ -19,7 +19,7 @@
         <dynamic_default_value/>
         <dynamic_ref_qual/>
         <example_text/>
-        <field>impact</field>
+        <field/>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -34,10 +34,10 @@
         <lookup_value/>
         <macro/>
         <mandatory>true</mandatory>
-        <map_to_field>true</map_to_field>
+        <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>impact</name>
+        <name>ETS_TIMECLOCK_impact</name>
         <order>210</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -61,7 +61,7 @@
         <sys_created_on>2017-10-26 23:44:34</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>4dcc40bd0f8e0300cab6306be1050e3b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Whom does this issue impact?</sys_name>
         <sys_package display_value="Electronic Timekeeping Support" source="x_68580_timekeepin">feaf98e90fc60300cab6306be1050e9b</sys_package>
         <sys_policy/>
@@ -69,7 +69,7 @@
         <sys_scope display_value="Electronic Timekeeping Support">feaf98e90fc60300cab6306be1050e9b</sys_scope>
         <sys_update_name>item_option_new_4dcc40bd0f8e0300cab6306be1050e3b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-10-26 23:44:34</sys_updated_on>
+        <sys_updated_on>2017-10-27 00:40:14</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>

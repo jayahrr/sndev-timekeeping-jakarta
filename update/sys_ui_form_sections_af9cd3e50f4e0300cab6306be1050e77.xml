@@ -43,6 +43,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-10-26 23:51:11</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-27 00:08:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>225218710fce0300cab6306be1050ed6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_68580_timekeepin_electronic_timekeeping_support" name="x_68580_timekeepin_electronic_timekeeping_support" sys_domain="global" view="Default view">af9cd3e50f4e0300cab6306be1050e77</sys_ui_form>
+            <sys_ui_section caption="Questions" display_value="Questions" name="x_68580_timekeepin_electronic_timekeeping_support" sys_domain="global" view="Default view">ea5218710fce0300cab6306be1050ed2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-27 00:08:58</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_68580_timekeepin_electronic_timekeeping_support</name>
             <roles/>
